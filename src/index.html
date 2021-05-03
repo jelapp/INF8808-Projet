@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://demos.jquerymobile.com/1.4.2/css/themes/default/jquery.mobile-1.4.2.min.css">
+<link rel="stylesheet" href="assets/style.css">
+<!-- <link rel="stylesheet" href="jquery-ui.css"> -->
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>INF8808 Projet final: SAQ</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.1.1/css/all.min.css">
+    <script src="https://demos.jquerymobile.com/1.4.2/js/jquery.js"></script>
+    <script src="https://demos.jquerymobile.com/1.4.2/js/jquery.mobile-1.4.2.min.js"></script>
+    <!-- <script src="external/jquery/jquery.js"></script>
+    <script src="jquery-ui.js"></script> -->
+    <script src="https://unpkg.com/d3-sankey@0"></script>
+</head>
+
+<body style="float: unset;">
+    <div id="modal-bg" class="modal"></div>
+    <div id="NavOverlay" class="overlay">
+        <span id="NavCloseBtn" class="closebtn">&times;</span>
+        <div class="overlay-content">
+            <p style="font-size: x-large; font-weight: bold; color: #cccccc;">Visualisations non officielles de l'inventaire de la SAQ
+                </span>
+                <p id="linkIntro" class="section-link">Introduction</p>
+                <p id="linkSecMap" class="section-link">Tendances géographiques</p>
+                <p id="linkSecBubble" class="section-link">Disponibilité et prix des produits</p>
+                <p id="linkSecSankey" class="section-link">Catégories des produits</p>
+        </div>
+    </div>
+
+
+    <div id="container" class="scroll-container" style="background-color: white !important;">
+        <section id="IntroSection">
+            <div class="row" style="height: 120px;">
+                <div class="titleBar block">
+                    <table style="height: 100%;">
+                        <tr>
+                            <td class="burgerMenu">&#9776;</td>
+                            <td class="title">Introduction</td>
+                        </tr>
+                    </table>
+                </div>
+                <div style="display: flex; width: 100%;">
+                    <div class="intro-page">
+                        <div class="intro-column" style="padding: 40px;">
+                            <div style="display: flex;">
+                                <div style="height: 150px; width: 150px; vertical-align: middle; margin-top: auto; margin-bottom: auto;">
+                                    <img src="assets/SAQ_Solide_couleur.png" style="width: inherit; height: inherit;">
+                                </div>
+                                <div style="font-size: 35px; text-align: left; vertical-align: middle; margin: 50px; max-width: 600px;">
+                                    Visualisations non officielles de l'inventaire de la SAQ
+                                </div>
+                            </div>
+                            <div style="display: inline;">
+                                <p style="margin-left: auto; font-size: 16px;">
+                                    Bienvenue à notre projet final de visualisation du cours INF8808 Hiver 2021 de Polytechnique Montréal!
+                                    <br> Notre projet se base sur un cliché de l'inventaire de la SAQ au 2 avril 2021 et vise à illustrer la variation de à travers le Québec. Autrement dit, est-ce que les succursales en région sont tout aussi bien desservies
+                                    que les succursales des grands centres urbains? Il est à noter que puisque les visualisations de basent sur un cliché de l'inventaire, elles sont extrêmement sensibles aux variations quotidiennes et aux arrivages saisonniers.
+                                    En d'autres mots, une rareté relative n'est qu'un indicateur de la réelle rareté d'un produit.
+                                    <br><br> Nous tenons à remercier chaleureusement le professeur Jean-Hugues Roy pour les données fournies et pour nous avoir fait confiance afin de mener à bien ce projet. Nous tenons aussi à remercier l'équipe du cours
+                                    INF8808 pour les conseils théoriques et techniques fournis tout au long du projet.
+                                </p>
+                                <p style="text-align: center; font-weight: bolder;">Bonne visualisation!</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="intro-column" style="text-align: center; display: flex; flex-direction: column; height: 70vh; width: 50%; margin-left: auto;">
+                        <div class="imageDiv">
+                            <img id="ImgMap" class="linkImg" src="./assets/img/viz1.PNG" alt="Viz 1" height="100%">
+                            <p class="vizDescription">
+                                Les succursales de la SAQ et leur type (SAQ Express, Dépôt, etc.) sont représentées sur la carte du Québec. La densité de succursales par habitant et par aire est représentée pour chaque région administrative.
+                            </p>
+                        </div>
+                        <div class="imageDiv">
+                            <img id="ImgBubble" class="linkImg" src="./assets/img/viz2.PNG" alt="Viz 2" height="100%">
+                            <p class="vizDescription">
+                                Un nuage de bulles permet de visualiser le prix et la disponibilité de l'inventaire de chaque région ou succursale en illustrant les catégories et les détails de chaque produit
+                            </p>
+                        </div>
+                        <div class="imageDiv">
+                            <img id="ImgSankey" class="linkImg" src="./assets/img/viz3.PNG" alt="Viz 3" height="100%">
+                            <p class="vizDescription">
+                                Un diagramme de Sankey permet la comparaison des inventaires selon les proportions représentées par chaque catégorie. Jusqu'à 3 niveaux de catégories sont offerts.
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+        </section>
+        <section id="SectionMap">
+            <div class="row" style="height: 120px; width: 100%;">
+                <div class="titleBar block">
+                    <table style="height: 100%;">
+                        <tr>
+                            <td class="burgerMenu">&#9776;</td>
+                            <td class="title">Tendances géographiques</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="block explain">
+                    <div>💡 Utiliser la souris pour déplacer la carte, et la roulette pour zoomer</div>
+                    <div>💡 Cliquer sur le bouton à gauche pour alterner entre les deux ratios</div>
+                    <div>💡 Sélectionner le type des succursales affichées en utilisant les boutons à droite</div>
+                </div>
+            </div>
+            <div class="graph" id="map-viz">
+                <div class="list-bg">
+                    <div class="para">
+                        <div class="map-mode">
+                            <h2>Quelles régions ont le plus de succursales...</h2>
+                            <button id="switch-map" value="Switch 1"><i class="fas fa-sync-alt"></i>&nbsp;...par 100 000 habitants?</button>
+                        </div>
+                        <ol class="rank">
+                        </ol>
+                    </div>
+                </div>
+                <svg id="svg-map" class="main-svg">
+                    <defs>
+                        <clipPath id="cut-off-bottom">
+                            <rect x="64" y="0" width="2000" height="860" />
+                        </clipPath>
+                        <filter id="shadow-1">
+                            <feDropShadow dx="0" dy="0" stdDeviation="4"
+                                flood-color="grey"/>
+                        </filter>
+                        <filter id="shadow-2">
+                            <feDropShadow dx="0" dy="0" stdDeviation="2"
+                                flood-color="grey"/>
+                        </filter>
+                    </defs>
+                </svg>
+                <div class="flex-container">
+                    <div class="third">
+                        <span id="count"></span>
+
+                        <label class="container">Tout
+                            <input type="checkbox" checked="checked" value="tout">
+                        </label>
+
+                        <label class="container">SAQ (276)
+                            <input type="checkbox" checked="checked" value="SAQ">
+                        </label>
+
+                        <label class="container">SAQ Sélection (92)
+                            <input type="checkbox" checked="checked" value='SAQ Sélection'>
+                        </label>
+
+                        <label class="container">SAQ Express (26)
+                            <input type="checkbox" checked="checked" value='SAQ Express'>
+                        </label>
+
+                        <label class="container">SAQ Dépôt (10)
+                            <input type="checkbox" checked="checked" value='SAQ Dépôt'>
+                        </label>
+
+                        <label class="container">SAQ Restauration (3)
+                            <input type="checkbox" checked="checked" value='SAQ Restauration'>
+                        </label>
+                    </div>
+                    <div id="map-panel" class='second' style="visibility: hidden;"></div>
+                </div>
+            </div>
+        </section>
+        <section id="BubbleChartSection">
+            <div class="row" style="height: 120px; width: 100%;">
+                <div class="titleBar block">
+                    <table style="height: 100%;">
+                        <tr>
+                            <td class="burgerMenu">&#9776;</td>
+                            <td class="title">Disponibilité et prix des produits</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="block">
+                    <div class="selector">
+                        <select id="bubble-region">
+                            <option value="all">Toutes les régions</option>
+                        </select>
+                        <select id="bubble-branch">
+                            <option value="all">Toutes les succursales</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="block" id="BubbleSlider" style="visibility: visible;">
+                    <div class="tooltip" id="percentile-text" style="font-weight: bold; margin-bottom: 10px; text-indent: 17px;">Percentiles à afficher 💡
+                        <span class="tooltiptext" style="font-size: 12 !important; text-indent: 0px;">
+                            Les percentiles sont calculés en fonction du nombre de bouteilles en
+                            inventaire au Québec. Par exemple, pour afficher les 10% des produits ayant le plus de stock,
+                            l'intervalle 90-100 doit être sélectionné</span>
+                    </div>
+                    <div id="bubble-range" class="block">
+                    </div>
+                </div>
+                <div class="block" style="visibility: hidden;">
+                    <span>Critère de filtre</span>
+                    <select id="selectFilter">
+                        <option value="total">Nombre d'unités</option>
+                        <option value="tauxAlcool">Taux d'alcool</option>
+                        <option value="prix">Prix</option>
+                        <option value="disponibility">Disponibilité</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <section id="SectionSankey">
+            <div class="titleBar block">
+                <table style="height: 100%;">
+                    <tr>
+                        <td class="burgerMenu">&#9776;</td>
+                        <td class="title">Catégories des produits</td>
+                    </tr>
+                </table>
+            </div>
+            <div id="sankey-helper">
+                💡 Sélectionner deux succursales ou régions pour comparer le nombre de produits disponibles pour chacune des catégories.
+            </div>
+            <div class="sankey-viz-container">
+                <div class="sankey-sides">
+                </div>
+                <div class="graph-sankey" id="graph-sanky1">
+                    <select name="region1" id="region1" class="selector-sankey">
+                        <option value="all">Toutes les régions</option>
+                    </select>
+                    <select name="branch" id="branch1" class="selector-sankey">
+                        <option value="all">Toutes les succursales</option>
+                    </select>
+                    <svg class="main-svg" id="svg-sanky1">
+                        <defs>
+                            <filter id="f1" x="0" y="0">
+                                <feGaussianBlur in="SourceGraphic" stdDeviation="15" />
+                            </filter>
+                        </defs>
+                    </svg>
+                </div>
+                <div class="graph-sankey">
+                    <select name="region" id="region2" class="selector-sankey">
+                        <option value="all">Toutes les régions</option>
+                    </select>
+                    <select name="branch" id="branch2" class="selector-sankey">
+                        <option value="all">Toutes les succursales</option>
+                    </select>
+                    <svg class="main-svg" id="svg-sanky2">
+                        <defs>
+                            <filter id="f1" x="0" y="0">
+                                <feGaussianBlur in="SourceGraphic" stdDeviation="15" />
+                            </filter>
+                        </defs>
+                    </svg>
+                </div>
+                <div class="sankey-sides" id="sankey-panel" style="visibility: hidden;">
+
+                </div>
+            </div>
+        </section>
+        </div>
+
+        <script src="https://d3js.org/d3.v5.js"></script>
+        <script src="index.js"></script>
+</body>
+
+</html>

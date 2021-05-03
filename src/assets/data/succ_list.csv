@@ -1,0 +1,408 @@
+﻿id,nom,type,adresse,ville,codePostal,tel,lat,lon,region
+23001,Ste-Catherine Ouest/Stanley,SAQ Express,"1176, rue Ste-Catherine Ouest",Montréal,H3B1K1,514 861-7908,45.499036,-73.573856,Montréal
+23002,Val d'Or,SAQ Sélection,"1801, 3e Avenue",Val-d'Or,J9P5K1,819 825-6309,48.097688,-77.824762,Abitibi-Témiscamingue
+23003,Halles de la Gare,SAQ,"895, rue de la Gauchetière Ouest",Montréal,H3B4G1,514 876-4144,45.4998,-73.5662,Montréal
+23004,Quartier Dix30,SAQ Sélection,"7200, boulevard Quartier",Brossard,J4Y0B5,450 656-6254,45.44508,-73.439228,Montérégie
+23005,Senneterre,SAQ,"693, 10e Avenue",Senneterre,J0Y2M0,819 737-2581,48.39019,-77.24545,Abitibi-Témiscamingue
+23006,Richmond,SAQ,"35, rue du Collège",Richmond,J0B2H0,819 826-2500,45.658208,-72.14076,Estrie
+23008,Sainte-Thérèse - Boul. Curé-Labelle,SAQ,"232, boulevard Curé-Labelle",Sainte-Thérèse,J7E2X7,450 434-4283,45.6449,-73.8353,Laurentides
+23009,Du Parc/Fairmount Ouest,SAQ,"5261, avenue du Parc",Montréal,H2V4G9,514 277-8118,45.52071,-73.598804,Montréal
+23010,St-Laurent/Des Pins,SAQ,"3730, boulevard St-Laurent",Montréal,H2X2V8,514 842-1660,45.514761,-73.574565,Montréal
+23011,Halles D'Anjou,SAQ,"7500, boulevard les Galeries d'Anjou",Montréal,H1M3M4,514 353-3068,45.5985,-73.5683,Montréal
+23013,Lajeunesse/Fleury,SAQ Express,"10418, rue Lajeunesse",Montréal,H3L2E5,514 388-2726,45.5539,-73.6638,Montréal
+23015,Baie D'Urfé,SAQ,"90, boulevard Morgan",Baie-d'Urfé,H9X3A8,514 457-9806,45.417287,-73.916515,Montérégie
+23016,Saint-Lin-Laurentides,SAQ,"997, rue St-Isidore",Saint-Lin-Laurentides,J5M2V5,450 439-1748,45.8612961,-73.7571081,Lanaudière
+23018,D.D.O. - Boul. St-Jean,SAQ Express,"3699-B, boulevard Saint-Jean",Dollard-des-Ormeaux,H9G1X2,514 624-5384,45.472193,-73.833046,Montréal
+23019,Saint-Denis/Rachel,SAQ,"4190, rue St-Denis",Montréal,H2W2M5,514 845-5200,45.520405,-73.575111,Montréal
+23020,Beaubien/De Lorimier,SAQ Express,"2100, rue Beaubien Est",Montréal,H2G1M6,514 727-7881,45.545526,-73.594534,Montréal
+23021,Ontario/Pie IX,SAQ,"4035, rue Ontario Est",Montréal,H1W1T3,514 522-0704,45.549726,-73.541598,Montréal
+23023,Décarie/Côte-Vertu,SAQ Express,"954, boulevard Décarie",Montréal,H4L3M4,514 747-2511,45.51346,-73.68159,Montréal
+23025,Galeries Gatineau,SAQ Sélection,"948, boulevard Maloney Ouest",Gatineau,J8T3R6,819 561-3911,45.479111,-75.690494,Outaouais
+23026,Lachine,SAQ,"460, 28e Avenue",Lachine,H8S3Z4,514 639-3994,45.436966,-73.688669,Montréal
+23028,Faubourg Sainte-Catherine,SAQ,"1618, rue Ste-Catherine Ouest",Montréal,H3H2S7,514 935-5127,45.494363,-73.578634,Montréal
+23029,Dorval,SAQ Sélection,"875, avenue Carson",Dorval,H9S3H8,514 631-4122,45.44347,-73.74378,Montréal
+23030,Jarry/Lajeunesse,SAQ,"533, rue Jarry Est",Montréal,H2P1V6,514 271-6749,45.543858,-73.628575,Montréal
+23031,Mansfield-et-Pontefract,SAQ,"242, rue Principale",Mansfield-et-Pontefract,J0X1R0,819 683-2688,45.849696,-76.726813,Outaouais
+23032,Ville-Émard,SAQ,"6609, boulevard Monk",Montréal,H4E3J2,514 762-4143,45.45281,-73.593859,Montréal
+23033,St-Jérôme - Centre-ville,SAQ,"461, rue Labelle",St-Jérôme,J7Z5L4,450 438-3755,45.780107,-74.00312,Laurentides
+23035,Granby - Centre-ville,SAQ,"235, rue Principale",Granby,J2G2V9,450 372-0661,45.400517,-72.728138,Montérégie
+23036,Fleury/Papineau,SAQ,"1745-A, rue Fleury Est",Montréal,H2C1T3,514 381-2707,45.566963,-73.654338,Montréal
+23037,Joliette - Boul. Firestone,SAQ Sélection,"1243, boulevard Firestone",Joliette,J6E2W4,450 752-4011,46.0346635,-73.4219625,Lanaudière
+23040,Louiseville,SAQ,"556, boulevard St-Laurent Est",Louiseville,J5V1H9,819 228-2611,46.257103,-72.926229,Mauricie
+23041,Beauharnois,SAQ,"534, boulevard Cadieux",Beauharnois,J6N0R5,450 429-3373,45.3056273,-73.864109,Montérégie
+23042,Marieville,SAQ,"124, rue Ouellette",Marieville,J3M1A5,450 460-7232,45.437689,-73.171367,Montérégie
+23043,Fermé - Saint-Hyacinthe - Centre-ville,SAQ,"1590, rue des Cascades Ouest",St-Hyacinthe,J2S3H5,450 774-7111,45.624862,-72.945775,Montérégie
+23044,Galeries D'Anjou,SAQ,"7999, boulevard les Galeries d'Anjou",Montréal,H1M1W6,514 353-5720,45.6012,-73.5647,Montréal
+23045,Waterloo,SAQ,"4910, rue Foster",Waterloo,J0E2N0,450 539-0252,45.3437,-72.5166,Montérégie
+23048,Longueuil - Boul. Roland-Therrien,SAQ Sélection,"1611, boulevard Roland-Therrien",Longueuil,J4J5C5,450 468-3811,45.53776,-73.47847,Montérégie
+23049,Laval - Boul. Saint-Martin Ouest,SAQ Express,"1845, boulevard Saint-Martin Ouest",Laval,H7S1N2,450 681-2496,45.566696,-73.730211,Laval
+23050,Carrefour du Casino,SAQ Sélection,"705, boulevard de la Carrière",Gatineau,J8Y6W6,819 777-1944,45.450361,-75.729076,Outaouais
+23051,Buckingham,SAQ,"186, avenue Lépine",Gatineau,J8L0B4,819 986-3477,45.5757965,-75.3981575,Outaouais
+23052,Galeries Aylmer,SAQ Sélection,"175, rue Principale",Gatineau,J9H3N2,819 684-5668,45.395577,-75.837702,Outaouais
+23053,Berthierville,SAQ,"786, avenue Gilles-Villeneuve",Berthierville,J0K1A0,450 836-4414,46.085186,-73.188212,Lanaudière
+23054,Amos,SAQ,"284, 1re Avenue Est",Amos,J9T1H3,819 732-2981,48.571819,-78.110168,Abitibi-Témiscamingue
+23055,Marché Jean-Talon,SAQ,"7077, avenue Casgrain",Montréal,H2S3A3,514 276-1512,45.535111,-73.615584,Montréal
+23056,Carrefour St-Hubert,SAQ Sélection,"5970, boulevard Cousineau",Longueuil,J3Y7R9,450 676-9876,45.49501,-73.40881,Montérégie
+23057,Mail Montenach,SAQ Sélection,"560, boulevard Sir-Wilfrid-Laurier",Beloeil,J3G4J2,450 467-2161,45.5597,-73.2085,Montérégie
+23058,Lennoxville,SAQ,"175, rue Queen",Sherbrooke,J1M1K1,819 565-8011,45.369215,-71.85684,Estrie
+23059,Dorion,SAQ,"401, boulevard Harwood",Vaudreuil-Dorion,J7V7W1,450 424-0008,45.3812,-74.0175,Montérégie
+23060,Chambly,SAQ Sélection,"1285, boulevard de Périgny",Chambly,J3L1W7,450 658-8222,45.44609,-73.28805,Montérégie
+23061,Terrebonne - Ch. Gascon,SAQ,"2330, chemin Gascon",Terrebonne,J6X3A5,450 964-9551,45.723946,-73.664931,Lanaudière
+23062,L'Assomption,SAQ,"800, montée Saint-Sulpice",L'Assomption,J5W0M6,450 589-4771,45.8358824,-73.4127485,Lanaudière
+23063,Rigaud,SAQ,"459, chemin de la Grande-Ligne",Rigaud,J0P1P0,450 451-5687,45.4791,-74.2865,Montérégie
+23064,Sherbrooke Est/Carignan,SAQ Express,"6360, rue Sherbrooke Est",Montréal,H1N3P6,514 251-4711,45.5805,-73.5436,Montréal
+23065,Avenue Laurier Ouest,SAQ Sélection,"390, avenue Laurier Ouest",Montréal,H2V2K7,514 271-7010,45.519255,-73.596155,Montréal
+23066,Beaubien/St-André,SAQ Sélection,"900, rue Beaubien Est",Montréal,H2S1T1,514 270-1776,45.5367,-73.6025,Montréal
+23067,Cowansville,SAQ,"1787, rue du Sud",Cowansville,J2K3G8,450 266-1088,45.1895,-72.7549,Montérégie
+23068,La Prairie,SAQ,"50, boulevard Taschereau",La Prairie,J5R4V3,450 444-4525,45.423799,-73.48387,Montérégie
+23069,SAQ Sélection Blainville,SAQ Sélection,"259, boul. de la Seigneurie Ouest",Blainville,J7C4N3,450 434-9164,45.663783,-73.875091,Laurentides
+23070,Repentigny - Boul. Brien,SAQ Sélection,"86, boulevard Brien",Repentigny,J6A5K7,450 654-6260,45.743467,-73.453407,Lanaudière
+23071,Valleyfield - Ch. Larocque,SAQ,"406, chemin Larocque",Salaberry-de-Valleyfield,J6T4C5,450 373-2611,45.2421,-74.126,Montérégie
+23072,Fermé - Gatineau - Promenade du Portage,SAQ,"141, promenade du Portage",Gatineau,J8X2K2,819 771-7395,45.425672,-75.716548,Outaouais
+23073,Le Gardeur,SAQ,"515, boulevard Lacombe",Repentigny,J5Z1P5,450 470-1005,45.756553,-73.463921,Lanaudière
+23074,Huntingdon,SAQ,"2195, chemin Ridge",Huntingdon,J0S1H0,450 264-5437,45.0923,-74.1875,Montérégie
+23075,Place Vertu,SAQ,"3111, boulevard de la Côte Vertu",Montréal,H4R1Y5,514 337-1158,45.497432,-73.704033,Montréal
+23076,Beaubien/27e avenue,SAQ,"4390, rue Beaubien Est",Montréal,H1T1S9,514 721-9350,45.565256,-73.577197,Montréal
+23077,Bedford,SAQ,"18, avenue des Pins",Bedford,J0J1A0,450 248-3382,45.1205,-72.9904,Montérégie
+23079,Delson,SAQ,"54, Route 132, Local 101",Delson,J5B0A1,450 635-7288,45.386156,-73.547259,Montérégie
+23080,Farnham,SAQ,"201, rue Principale Est",Farnham,J2N1L2,450 293-4100,45.284785,-72.978318,Montérégie
+23081,Coaticook,SAQ,"235, rue Child",Coaticook,J1A2B5,819 849-2992,45.135233,-71.804709,Estrie
+23082,Magog - Rue Principale,SAQ Sélection,"987, rue Principale Ouest",Magog,J1X2B7,819 843-4543,45.268472,-72.15848,Estrie
+23084,Saint-Jean-sur-Richelieu - Du Séminaire/St-Louis,SAQ,"391, boulevard du Séminaire Nord",Saint-Jean-sur-Richelieu,J3B8C5,450 348-7641,45.31199,-73.26321,Montérégie
+23085,Côte-Saint-Luc,SAQ,"7129, chemin de la Côte-Saint-Luc",Côte-Saint-Luc,H4V1J2,514 489-8757,45.4665,-73.6547,Montréal
+23086,Westmount,SAQ Sélection,"4833, rue  Sherbrooke Ouest",Westmount,H3Z1G6,514 483-1355,45.479202,-73.603193,Montréal
+23087,Henri-Bourassa Ouest/Tanguay,SAQ Sélection,"450, boulevard Henri-Bourassa Ouest",Montréal,H3L0A2,514 336-4266,45.5441,-73.6743,Montréal
+23088,Iberville,SAQ,"420, 2e Avenue",St-Jean-sur-Richelieu,J2X2B8,450 346-9339,45.304,-73.2305,Montérégie
+23090,Saint-Eustache - Arthur-Sauvé/Pie XII,SAQ Sélection,"460, boulevard Arthur-Sauvé",Saint-Eustache,J7R4Z3,450 473-3300,45.5666391,-73.9070959,Laurentides
+23091,Notre-Dame Est/St-Donat,SAQ,"8269, rue Notre-Dame Est",Montréal,H1L3L2,514 351-0636,45.593,-73.511,Montréal
+23092,N.D.G. - Rue Sherbrooke Ouest,SAQ Express,"6108, rue Sherbrooke Ouest",Montréal,H4A1Y3,514 489-6521,45.467588,-73.621563,Montréal
+23094,Sutton,SAQ,"35-2, rue Principale Nord",Sutton,J0E2K0,450 538-1903,45.108553,-72.616978,Montérégie
+23095,Bromont,SAQ Sélection,"89, boulevard de Bromont",Bromont,J2L2K5,450 534-4600,45.319121,-72.647609,Montérégie
+23096,Acton Vale,SAQ,"1530, rue d'Acton, local 58",Acton Vale,J0H1A0,450 546-2996,45.644392,-72.574959,Montérégie
+23097,Sainte-Anne-des-Plaines,SAQ,"155, boulevard Sainte-Anne",Sainte-Anne-des-Plaines,J0N1H0,450 478-8618,45.756596,-73.817963,Laurentides
+23098,Maniwaki,SAQ,"100, rue Principale Sud",Maniwaki,J9E3L4,819 449-2482,46.3747,-75.9817,Outaouais
+23099,Pie IX/Industriel,SAQ Express,"10210, boulevard Pie-IX",Montréal,H1H3Z1,514 322-4030,45.585,-73.6313,Montréal
+23100,N.D.G. - Rue Monkland,SAQ,"5617, avenue de Monkland",Montréal,H4A1E2,514 486-3838,45.4755,-73.6232,Montréal
+23101,Mont-Royal Est/Papineau,SAQ Sélection,"1690, avenue du Mont-Royal Est",Montréal,H2J1Z5,514 521-8230,45.532699,-73.574632,Montréal
+23102,Rouyn-Noranda,SAQ Sélection,"200, boulevard Rideau",Rouyn-Noranda,J9X6A4,819 762-1402,48.240498,-79.035835,Abitibi-Témiscamingue
+23104,Rawdon,SAQ,"3240, 1re Avenue",Rawdon,J0K1S0,450 834-2519,46.037421,-73.69957,Lanaudière
+23105,Lachute,SAQ,"503, avenue Béthany",Lachute,J8H4A6,450 562-4011,45.63713,-74.32706,Laurentides
+23106,Carrefour de la Pointe,SAQ Sélection,"12653, rue Sherbrooke Est",Montréal,H1A3V9,514 642-5717,45.65553,-73.50991,Montréal
+23107,Verdun,SAQ,"4215, rue Wellington",Montréal,H4G1V9,514 767-9937,45.461774,-73.567151,Montréal
+23108,L'Annonciation,SAQ,"1383, rue L'Annonciation Sud",Rivière-Rouge,J0T1T0,819 275-2882,46.400942,-74.866129,Laurentides
+23109,Queen-Mary/Décarie,SAQ,"5295, chemin Queen-Mary",Montréal,H3W1Y3,514 486-9433,45.484145,-73.629219,Montréal
+23110,Lacolle,SAQ,"60, route 202",Lacolle,J0J1J0,450 246-3966,45.0721,-73.35806,Montérégie
+23112,Centre Eaton,SAQ,"677, rue Sainte-Catherine Ouest",Montréal,H3B5K4,438 387-1665,45.503323,-73.570983,Montréal
+23113,De la Montagne,SAQ Sélection,"1450, de la Montagne",Montréal,H3G1Z5,514 543-5770,45.4985237,-73.576732,Montréal
+23114,Témiscaming,SAQ,"534, chemin Kipawa",Témiscaming,J0Z3R0,819 627-9491,46.72282,-79.094636,Abitibi-Témiscamingue
+23115,La Porte de Gatineau,SAQ Express,"25, chemin de la Savane",Gatineau,J8T8A4,819 561-3900,45.4737,-75.70415,Outaouais
+23116,Malartic,SAQ,"1470, rue Royale",Malartic,J0Y1Z0,819 757-2054,48.1431782,-78.126807,Abitibi-Témiscamingue
+23117,Asbestos,SAQ,"566, 1re Avenue",Asbestos,J1T4N3,819 879-5722,45.7694,-71.9262,Estrie
+23118,Tracy,SAQ,"6800, avenue de la Plaza",Sorel-Tracy,J3R4L7,450 742-1373,46.019961,-73.153772,Montérégie
+23119,Mont-Tremblant - Saint-Jovite,SAQ Sélection,"1122, rue de Saint-Jovite",Mont-Tremblant,J8E3J9,819 425-6301,46.118335,-74.601307,Laurentides
+23120,Ville-Marie,SAQ,"37, rue des Oblats nord",Ville-Marie,J9V1H9,819 629-2087,47.336306,-79.437034,Abitibi-Témiscamingue
+23121,Duvernay,SAQ,"3100, boulevard de la Concorde Est",Laval,H7E2B8,450 661-0022,45.5925,-73.6669,Laval
+23122,Saint-Rémi,SAQ,"780, rue St-Paul",Saint-Rémi,J0L2L0,450 454-3133,45.260316,-73.609447,Montérégie
+23123,La Sarre,SAQ,"77, 2e Rue Est",La Sarre,J9Z3G8,819 333-2626,48.8125,-79.1998,Abitibi-Témiscamingue
+23124,Côte-des-Neiges/Jean-Brillant,SAQ,"5252, chemin de la Côte-des-Neiges",Montréal,H3T1X8,514 738-6375,45.495506,-73.620734,Montréal
+23125,Mont-Laurier,SAQ,"1015,  boulevard Albiny-Paquette",Mont-Laurier,J9L0K3,819 623-1821,46.55097,-75.48512,Laurentides
+23126,Pierrefonds - Boul. des Sources,SAQ,"4990, boulevard des Sources",Montréal,H8Y3E2,514 683-0879,45.508255,-73.821471,Montréal
+23128,Saint-Gabriel-de-Brandon,SAQ,"75, rue Saint-Gabriel",Saint-Gabriel,J0K2N0,450 835-7173,46.292176,-73.382872,Lanaudière
+23129,Châteauguay - Boul. d'Anjou,SAQ Sélection,"88, boulevard d'Anjou",Châteauguay,J6K1C3,450 699-7403,45.3604328,-73.7334582,Montérégie
+23130,Plaza Gatineau,SAQ,"381, boulevard Maloney",Gatineau,J8P1E3,819 663-7095,45.484875,-75.6401,Outaouais
+23131,Saint-Lambert - Boul. Sir-Wilfrid-Laurier,SAQ Sélection,"289, boulevard Sir-Wilfrid-Laurier",Saint-Lambert,J4R2L1,450 671-3574,45.4938752,-73.5037337,Montérégie
+23132,Marché Atwater,SAQ Sélection,"155, avenue Atwater",Montréal,H3J2J4,514 932-2574,45.479829,-73.576285,Montréal
+23133,Sainte-Dorothée,SAQ Sélection,"1096, Autoroute Chomedey",Laval,H7X4C9,450 969-4146,45.5321341,-73.7864986,Laval
+23134,De Maisonneuve/City Councillors,SAQ Sélection,"440, boulevard De Maisonneuve Ouest",Montréal,H3A3K5,514 873-2274,45.506172,-73.569824,Montréal
+23135,Piedmont - Chemin Avila,SAQ Express,"697, Chemin Avila, Local 110",Piedmont,J0R1R3,450 240-0856,45.889322,-74.146544,Laurentides
+23136,Pierrefonds - Boul. St-Jean,SAQ Sélection,"4777, boulevard St-Jean",Montréal,H9H2A9,514 626-2972,45.4891,-73.8482,Montréal
+23137,Boucherville - Boul. du Fort St-Louis,SAQ,"510, boulevard du Fort-St-Louis",Boucherville,J4B1S5,450 449-6618,45.6087,-73.4519,Montérégie
+23138,Jean-Talon/Viau,SAQ,"7205, boulevard Viau",Montréal,H1S0C1,514 727-7922,45.575479,-73.584055,Montréal
+23139,Galeries Laval,SAQ,"1545, boulevard Le Corbusier",Laval,H7S2K6,450 686-1029,45.562737,-73.726977,Laval
+23140,Brossard - Taschereau/Adam,SAQ Sélection,"5700, boulevard Taschereau",Brossard,J4W1M4,450 466-2141,45.479333,-73.46535,Montérégie
+23141,Saint-Bruno - Rue Roberval,SAQ Sélection,"1380, rue Roberval",St-Bruno-de-Montarville,J3V5J2,450 653-2051,45.52749,-73.344123,Montérégie
+23142,Mirabel - Saint-Janvier,SAQ,"13370, boulevard Curé-Labelle",Mirabel,J7J1G9,450 434-1037,45.6989,-73.9202,Laurentides
+23144,Terrebonne - Boul. des Seigneurs,SAQ Sélection,"1100, boulevard des Seigneurs Est",Terrebonne,J6W3W4,450 471-9180,45.7001424,-73.644701,Lanaudière
+23145,N.D.G. - Ave. Somerled,SAQ,"6265, avenue Somerled",Montréal,H3X2B7,514 488-1692,45.47092,-73.63529,Montréal
+23146,Henri-Bourassa Est/Rolland,SAQ,"6186, boulevard Henri-Bourassa Est",Montréal-Nord,H1G5X3,514 329-1222,45.608963,-73.61311,Montréal
+23148,Sherbrooke - Centre-ville,SAQ Sélection,"30, rue King Ouest",Sherbrooke,J1H1N8,819 822-2262,45.40187,-71.88916,Estrie
+23149,Papineauville,SAQ,"146-A, rue Papineau",Papineauville,J0V1R0,819 427-5754,45.617249,-75.016823,Outaouais
+23150,Kirkland - St-Charles/Brunswick,SAQ Express,"3691, boulevard St-Charles",Kirkland,H9H4M2,514 694-2912,45.459216,-73.86518,Montréal
+23151,Centre Rockland,SAQ Sélection,"2305, chemin Rockland, local 1635",Ville de Mont-Royal,H3P3E9,514 733-6414,45.526917,-73.649994,Montréal
+23152,Sherbrooke - King Ouest/J.-Cartier Sud,SAQ Sélection,"1900, rue King Ouest",Sherbrooke,J1J2E2,819 348-9639,45.398438,-71.920986,Estrie
+23153,Galeries des Sources,SAQ,"40, boulevard Brunswick",Dollard-des-Ormeaux,H9B2N8,514 685-2784,45.4831,-73.7947,Montréal
+23155,Van Horne/Wilderton,SAQ,"2635, avenue Van Horne",Montréal,H3S1P6,514 731-1696,45.5098724,-73.624819,Montréal
+23156,Saint-Antoine-des-Laurentides,SAQ,"595, boulevard des Laurentides",Saint-Jérôme,J7Z4M4,450 436-2124,45.761828,-73.991126,Laurentides
+23158,Rock Forest,SAQ,"4799, boulevard Bourque",Sherbrooke,J1N2G6,819 564-7644,45.376,-71.9808,Estrie
+23159,Centre Fairview,SAQ,"6815, route Transcanadienne",Pointe-Claire,H9R1C4,514 695-2236,45.461941,-73.830494,Montréal
+23160,Carrefour de L'Estrie,SAQ,"3320, boulevard Portland",Sherbrooke,J1L2A6,819 822-2402,45.402736,-71.957065,Estrie
+23161,Lebel-sur-Quévillon,SAQ,"110B, rue Principale Sud",Lebel-sur-Quévillon,J0Y1X0,819 755-4372,49.051814,-76.978052,Nord-du-Québec
+23162,Saint-Jean-sur-Richelieu - Du Séminaire/Champlain,SAQ Sélection,"1095, boulevard du Séminaire Nord",Saint-Jean-sur-Richelieu,J3A1R2,450 348-6411,45.339857,-73.268099,Montérégie
+23163,LaSalle - Boul. Champlain,SAQ,"8070, boulevard Champlain",Montréal,H8P1B3,514 365-2752,45.427328,-73.611506,Montréal
+23165,Sainte-Agathe-des-Monts,SAQ Sélection,"701, Rue Principale",Sainte-Agathe-des-Monts,J8C1L1,819 326-8411,46.0438285,-74.2718338,Laurentides
+23166,Galeries Saint-Laurent,SAQ Sélection,"1919, boulevard Marcel-Laurin",St-Laurent,H4R1K4,514 744-6628,45.5175,-73.7,Montréal
+23167,Place Dupuis,SAQ Express,"865, rue Ste-Catherine Est",Montréal,H2L0E3,514 842-3398,45.5160961,-73.5584503,Montréal
+23168,Chomedey,SAQ Sélection,"555, boulevard Curé-Labelle",Laval,H7V2T4,450 681-7967,45.53754,-73.73982,Laval
+23169,Galeries Normandie,SAQ Express,"2834, rue de Salaberry",Montréal,H3M1L3,514 336-7627,45.5364,-73.699,Montréal
+23170,Plaza Pointe-Claire,SAQ,"269, boulevard St-Jean",Pointe-Claire,H9R3J1,514 695-2480,45.445457,-73.816171,Montréal
+23171,Sherbrooke Est/Autoroute 25,SAQ Sélection,"7550, rue Sherbrooke Est",Montréal,H1N3W1,514 256-9134,45.590949,-73.537616,Montréal
+23173,Rue Masson,SAQ,"2685, rue Masson",Montréal,H1Y1W3,514 721-2226,45.546262,-73.575973,Montréal
+23174,Complexe Desjardins,SAQ,"150, rue Ste-Catherine Ouest",Montréal,H5B1B5,514 844-8721,45.5073,-73.5643,Montréal
+23175,Windsor,SAQ,"201, rue St-Georges",Windsor,J1S1S7,819 845-2995,45.57323,-71.99876,Estrie
+23176,Saint-Donat,SAQ,"867, rue Principale",Saint-Donat,J0T2C0,819 424-3244,46.310407,-74.209919,Lanaudière
+23177,Kirkland - St-Charles/Hymus,SAQ Sélection,"2955, boulevard St-Charles",Kirkland,H9H3B5,514 694-2042,45.448121,-73.854116,Montréal
+23178,Stanstead,SAQ,"8, chemin de Fairfax",Stanstead,J0B3E0,819 876-5406,45.023337,-72.086961,Estrie
+23179,Mont-Tremblant - La Montagne,SAQ,"100, chemin de Kandahar",Mont-Tremblant,J8E1E2,819 681-4548,46.21247,-74.58654,Laurentides
+23180,Longueuil - Ch. de Chambly,SAQ,"2915, chemin de Chambly",Longueuil,J4L1M7,450 468-0540,45.520455,-73.4585611,Montérégie
+23181,Fabreville,SAQ,"420, boulevard Curé-Labelle",Laval,H7P2P1,450 625-2540,45.5771,-73.7875,Laval
+23182,Saint-Franà§ois,SAQ,"600, montée du Moulin",Laval,H7A1Z6,450 665-0710,45.66956,-73.57528,Laval
+23183,Carrefour du Nord,SAQ Sélection,"800, boulevard Grignon",Saint-Jérôme,J7Y2Y8,450 438-4662,45.793493,-74.014992,Laurentides
+23184,Bois-des-Filion,SAQ,"79, montée Gagnon",Bois-des-Filion,J6Z4H3,450 965-7622,45.6658251,-73.7610998,Laurentides
+23185,Ateliers Angus,SAQ Sélection,"4125, rue André-Laurendeau",Montréal,H1Y3R6,514 521-1746,45.543016,-73.562627,Montréal
+23186,Village Montpellier,SAQ,"740, boulevard de la Côte-Vertu",Ville St-Laurent,H4L5C8,514 744-9599,45.5204,-73.6741,Montréal
+23187,Carrefour Saint-Hyacinthe,SAQ Sélection,"3180, boulevard Laframboise",St-Hyacinthe,J2S4Z4,450 773-4554,45.63654,-72.966949,Montérégie
+23188,Auteuil-Laval,SAQ Sélection,"5007, boulevard des Laurentides",Laval,H7K2J7,579 641-1331,45.62011,-73.744492,Laval
+23189,Sainte-Adèle,SAQ Sélection,"423, boulevard Ste-Adèle",Sainte-Adèle,J8B2N1,450 229-7673,45.945185,-74.125655,Laurentides
+23190,Gatineau - St-Joseph/St-Raymond,SAQ Express,"425, boulevard Saint-Joseph",Gatineau,J8Y3Z8,819 771-5979,45.4462,-75.7337,Outaouais
+23191,Carrefour Angrignon,SAQ Sélection,"2500, boulevard Angrignon",Montréal,H8N0C1,514 364-4343,45.449489,-73.617885,Montréal
+23192,Granby - Rue St-Jude Nord,SAQ Sélection,"74, rue St-Jude Nord",Granby,J2J2T7,450 378-6808,45.418598,-72.753023,Montérégie
+23193,Mail Champlain,SAQ,"2151, boulevard Lapinière",Brossard,J4W2T5,450 671-3623,45.4722,-73.4706,Montérégie
+23194,Valleyfield - Boul. Monseigneur-Langlois,SAQ Sélection,"1620, boulevard Monseigneur-Langlois",Salaberry-de-Valleyfield,J6S1E3,450 377-8332,45.271439,-74.128462,Montérégie
+23195,Langelier/Bélanger,SAQ,"7160, boulevard Langelier",St-Léonard,H1S2X6,514 259-2344,45.590756,-73.569622,Montréal
+23196,Sorel,SAQ Sélection,"340, boulevard Poliquin",Sorel-Tracy,J3P0G4,450 746-2711,46.030842,-73.096465,Montérégie
+23197,Beaconsfield,SAQ,"110, Beaurepaire Dr",Beaconsfield,H9W0A1,514 694-4195,45.4326,-73.8481,Montréal
+23198,Saint-Joseph-du-Lac,SAQ,"3759, chemin d'Oka",St-Joseph-du-Lac,J0N1M0,450 472-9735,45.5135615,-73.9762983,Laurentides
+23200,Grenville,SAQ,"26, rue Maple",Grenville,J0V1J0,819 242-0616,45.623193,-74.593781,Laurentides
+23202,Faubourg Boisbriand,SAQ Sélection,"2735, rue d'Annemasse",Boisbriand,J7H0A5,450 437-4772,45.627529,-73.851271,Laurentides
+23203,Lac-Brome,SAQ,"460, chemin de Knowlton",Lac-Brome,J0E1V0,450 242-1414,45.214132,-72.529375,Montérégie
+23204,Saint-Félix-de-Valois,SAQ,"351, chemin de Joliette",Saint-Félix-de-Valois,J0K2M0,450 889-1807,46.1617304,-73.4296069,Lanaudière
+23205,Méga Centre Val-des-Brises,SAQ Sélection,"5040, boulevard Robert-Bourassa",Laval,H7E0A6,450 661-1137,45.60932,-73.6985,Laval
+23206,Terminus Longueuil,SAQ,"100, place Charles-Le Moyne",Longueuil,J4K2T4,450 679-1520,45.5254,-73.5219,Montérégie
+23207,Sainte-Marthe-sur-le-Lac,SAQ,"2851, boulevard des Promenades",Ste-Marthe-sur-le-Lac,J0N1P0,450 473-9153,45.538416,-73.925345,Laurentides
+23208,Papineau/Crémazie,SAQ Sélection,"8405, rue Papineau",Montréal,H2M2G2,514 728-7808,45.556057,-73.624257,Montréal
+23209,Vaudreuil,SAQ Sélection,"585, avenue St-Charles",Vaudreuil-Dorion,J7V8P9,450 455-9347,45.411366,-74.032143,Montérégie
+23210,Mont-Royal Est/Mentana,SAQ Express,"940, avenue du Mont-Royal Est",Montréal,H2J1X2,514 523-6117,45.526723,-73.580308,Montréal
+23211,Gracefield,SAQ,"25, rue Principale",Gracefield,J0X1W0,819 463-3222,46.094136,-76.052495,Outaouais
+23212,Sainte-Thérèse - rue Saint-Charles,SAQ Express,"232, rue Saint-Charles, Local 110",Sainte-Thérèse,J7E2B4,450 434-6232,45.645365,-73.860348,Laurentides
+23213,Du Village,SAQ,"1250, rue Sainte-Catherine Est",Montréal,H2L2H2,514 521-0184,45.518981,-73.555738,Montréal
+23214,Saint-Constant,SAQ,"284, voie de desserte de la Route 132",St-Constant,J5A2C9,450 638-5344,45.387577,-73.570832,Montérégie
+23215,Carrefour Candiac,SAQ Sélection,"220, rue de Strasbourg",Candiac,J5R0B4,450 619-9255,45.3715931,-73.5154268,Montérégie
+23216,Mirabel - St-Canut,SAQ,"13912, rue St-Simon",Mirabel,J7N1P3,450 436-2607,45.705208,-74.095979,Laurentides
+23217,Sainte-Catherine Ouest/Lambert Closse,SAQ,"2204, rue Ste-Catherine Ouest",Montréal,H3H1M7,514 935-9414,45.490253,-73.583248,Montréal
+23218,Centropolis,SAQ Sélection,"250, promenade du Centropolis",Laval,H7T2Z6,450 978-3189,45.560896,-73.745198,Laval
+23219,Sainte-Julienne,SAQ,"1545, route 125",Ste-Julienne,J0K2T0,450 831-4404,45.965846,-73.71223,Lanaudière
+23220,Mont-Royal Ouest-Clark,SAQ,"55, Mont-Royal Ouest",Montréal,H2T2S6,514 843-7177,45.519466,-73.5870965,Montréal
+23221,Galeries Orford,SAQ,"1700, rue Sherbrooke",Magog,J1X5B4,819 847-2969,45.2763,-72.1298,Estrie
+23222,Saint-Zotique,SAQ,"344, rue Principale",Saint-Zotique,J0P1Z0,450 267-1147,45.253005,-74.225583,Montérégie
+23223,Morin-Heights,SAQ,"707, chemin du Village",Morin-Heights,J0R1H0,450 226-7031,45.904068,-74.24508,Laurentides
+23224,Saint-Basile-le-Grand,SAQ,"2210, boulevard du Millénaire",St-Basile-le-Grand,J3N1T8,450 653-6698,45.5232,-73.3017,Montérégie
+23226,Châteauguay - Boul. St-Jean-Baptiste,SAQ Express,"85, boulevard St-Jean-Baptiste",Châteauguay,J6J3H7,450 692-9202,45.36138,-73.71426,Montérégie
+23227,Saint-Césaire,SAQ,"2010, route 112",St-Césaire,J0L1T0,450 469-0973,45.414215,-73.011139,Montérégie
+23228,Ville de Mont-Royal - Ch. Canora,SAQ,"1309, chemin Canora",Mont-Royal,H3P2J5,514 739-6634,45.517031,-73.64308,Montréal
+23229,Brossard - Taschereau/Pelletier,SAQ Sélection,"8300, boulevard Taschereau",Brossard,J4X1C2,450 466-3634,45.446884,-73.471983,Montérégie
+23230,Bellefeuille,SAQ,"1093, boulevard  Roland-Godard",Saint-Jérôme,J7Y4C4,450 432-4567,45.795551,-74.028414,Laurentides
+23231,Saint-Eustache - Arthur-Sauvé/Léveillé,SAQ,"751, boulevard Arthur-Sauvé",Saint-Eustache,J7R4K3,450 491-3400,45.581296,-73.92147,Laurentides
+23233,Saint-Jean-de-Matha,SAQ,"845, route Louis-Cyr",St-Jean-de-Matha,J0K2S0,450 886-1422,46.22566,-73.527978,Lanaudière
+23234,Gatineau - Montée-Paiement,SAQ,"710, montée Paiement",Gatineau,J8R4A3,819 669-3684,45.503447,-75.67698,Outaouais
+23235,Laval-Ouest,SAQ,"4961, boulevard Arthur-Sauvé",Laval,H7R3X2,450 962-2111,45.5508,-73.86753,Laval
+23237,R.D.P. - Boul. Rodolphe-Forget,SAQ,"12401, boulevard Rodolphe-Forget",Montréal,H1E0A2,514 648-8382,45.648663,-73.577994,Montréal
+23239,Repentigny - Boul. Iberville,SAQ,"1315 A, boulevard Iberville",Repentigny,J5Y4B8,450 657-2121,45.7838,-73.4123,Lanaudière
+23240,Saint-Amable,SAQ,"561, rue Principale",Saint-Amable,J0L1N0,450 649-7623,45.6449,-73.3029,Montérégie
+23241,Avenue Laurier Est,SAQ,"1325, avenue Laurier Est",Montréal,H2J1H4,514 521-9521,45.533247,-73.584127,Montréal
+23243,Prévost,SAQ,"2631, boulevard du Curé-Labelle",Prévost,J0R1T0,450 335-0881,45.8409006,-74.0616316,Laurentides
+23244,LaSalle- Dollard/Newman,SAQ,"1880, avenue Dollard",Lasalle,H8N3G5,514 379-3032,45.42967,-73.63523,Montréal
+23246,Beloeil - Rue Saint-Jean-Baptiste,SAQ,"1006, rue St-Jean-Baptiste",Beloeil,J3G0J1,450 446-1117,45.577541,-73.21145,Montérégie
+23247,Gatineau - St-Joseph/Freeman,SAQ,"1160, boulevard St-Joseph",Gatineau,J8Z1T3,819 771-7710,45.473361,-75.740108,Outaouais
+23250,Griffintown,SAQ,"231, rue Peel",Montréal,H3C2G6,514 399-1001,45.493882,-73.559018,Montréal
+23301,Gatineau - Boul. du Plateau,SAQ Sélection,"31, boulevard du Plateau",Gatineau,J9A3G1,819 772-9582,45.435814,-75.777573,Outaouais
+23303,Terrebonne - Montée des Pionniers,SAQ,"327, montée des Pionniers",Terrebonne,J6V1H4,450 654-5644,45.71287,-73.5122,Lanaudière
+23304,N.D.G. - Rue St-Jacques,SAQ Sélection,"6630, rue St-Jacques",Montréal,H4B1V8,514 488-7049,45.4592,-73.6266,Montréal
+23306,Dépôt Sherbrooke,SAQ Dépôt,"540, rue Jean-Paul-Perrault",Sherbrooke,J1L3A6,819 563-0959,45.404822,-71.957986,Estrie
+23308,Boucherville - De Mortagne/Aut. 20,SAQ Express,"110, boulevard De Mortagne",Boucherville,J4B5M7,450 449-4138,45.576339,-73.446584,Montérégie
+23309,Fleurimont,SAQ,"1135, rue King Est,",Sherbrooke,J1G1E6,819 565-2856,45.408315,-71.86324,Estrie
+23311,Sainte-Rose,SAQ Sélection,"366, boulevard Curé-Labelle",Laval,H7L4T7,450 622-3687,45.5941,-73.7877,Laval
+23312,La Plaine,SAQ,"5751, boulevard Laurier",Terrebonne,J7M1T7,450 477-4215,45.756344,-73.713474,Lanaudière
+23313,Saint-Eustache - 25e avenue,SAQ Express,"169, 25e Avenue",Saint-Eustache,J7P2V1,450 491-3616,45.574,-73.8731,Laurentides
+23314,Terrebonne - Boul. Moody,SAQ Express,"1393, boulevard Moody",Terrebonne,J6X4C8,450 492-6605,45.7090346,-73.6500965,Lanaudière
+23315,Dépôt Laurentides,SAQ Dépôt,"1395, boulevard Michèle-Bohec",Blainville,J7C0M4,450 430-3772,45.678529,-73.914286,Laurentides
+23316,Dépôt Rive-Sud,SAQ Dépôt,"1525, boulevard des Promenades",Longueuil,J3Y5K2,450 656-1037,45.492799,-73.379292,Montérégie
+23317,Dépôt Vaudreuil-Soulanges,SAQ Dépôt,"22600, chemin Dumberry",Vaudreuil-Dorion,J7V0M8,450 455-0051,45.414395,-74.040559,Montérégie
+23318,Dépôt Lanaudière,SAQ Dépôt,"241, rue des Migrateurs",Terrebonne,J6V0A8,450 654-2928,45.716979,-73.506558,Lanaudière
+23324,Brossard - Boul. de la Grande Allée,SAQ,"5625, boulevard de la Grande-Allée",Brossard,J4Z3G3,450 678-9044,45.4748,-73.4435,Montérégie
+23325,Promenades Saint-Bruno,SAQ,"195, boulevard des Promenades",St-Bruno-de-Montarville,J3V5K2,450 441-9822,45.5062,-73.3765,Montérégie
+23326,Dépôt Marché Central,SAQ Dépôt,"1001, rue du Marché Central",Montréal,H4N1J8,514 383-9954,45.535779,-73.655212,Montréal
+23327,Repentigny - Boul. Industriel,SAQ Express,"84, boulevard Industriel",Repentigny,J6A4X6,450 657-9782,45.753559,-73.44188,Lanaudière
+23329,Place D'Armes,SAQ,"501, place d'Armes",Montréal,H2Y2W7,514 282-4533,45.5051661,-73.5567186,Montréal
+23330,Hemmingford,SAQ,"501, avenue Champlain",Hemmingford,J0L1H0,450 247-3343,45.04572,-73.58805,Montérégie
+23331,R.D.P. - Boul. Maurice-Duplessis,SAQ,"7517, boulevard Maurice-Duplessis",Montréal,H1E7N2,514 648-5140,45.625634,-73.598909,Montréal
+23332,Brossard - Marché Village,SAQ Express,"7800, boulevard Taschereau",Brossard,J4X1V7,450 671-6099,45.4542,-73.4665,Montérégie
+23333,Napierville,SAQ,"490-A, rue St-Jacques",Napierville,J0J1L0,450 245-7202,45.1926,-73.41141,Montérégie
+23334,Saint-Luc,SAQ,"280, boulevard St-Luc",Saint-Jean-sur-Richelieu,J2W0G1,450 349-2418,45.35652,-73.2982,Montérégie
+23335,Mascouche,SAQ Sélection,"845, montée Masson",Mascouche,J7K3T3,450 966-0981,45.7422928,-73.608297,Lanaudière
+23336,Petite Italie,SAQ,"7010, boulevard Saint-Laurent",Montréal,H2S3E2,514 276-5019,45.5332321,-73.6157097,Montréal
+23337,L'Île-des-Soeurs,SAQ Sélection,"44, place du Commerce",Montréal,H3E1J5,514 766-4432,45.467894,-73.543763,Montérégie
+23343,L'Île-Perrot,SAQ Sélection,"106, boulevard Don Quichotte",L'Île-Perrot,J7V6L7,514 453-2632,45.388079,-73.962031,Montérégie
+23344,Centre Le Boulevard,SAQ Sélection,"4152, rue Jean-Talon Est",Montréal,H1S2V4,514 721-1039,45.566659,-73.589607,Montréal
+23345,La Cité - Les Galeries du Parc,SAQ,"3575, avenue du Parc",Montréal,H2X3P9,514 288-3493,45.510319,-73.575003,Montréal
+23347,Varennes,SAQ Sélection,"1797, route 132",Varennes,J3X1P7,450 652-9279,45.668441,-73.430393,Montérégie
+23348,Lorraine,SAQ,"85, boulevard De Gaulle",Lorraine,J6Z3R8,450 621-0610,45.66542,-73.78251,Laurentides
+23349,Pont-Viau,SAQ,"1089, boulevard des Laurentides",Laval,H7G2W2,450 669-9927,45.5776105,-73.6995299,Laval
+23351,Oka,SAQ,"33, rue Notre-Dame",Oka,J0N1E0,450 479-6134,45.464516,-74.080229,Montérégie
+23352,Ormstown,SAQ,"4, rue Bridge",Ormstown,J0S1K0,450 829-2534,45.1210682,-73.9892255,Montérégie
+23355,Hudson,SAQ,"502, rue Main",Hudson,J0P1H0,450 458-4816,45.459822,-74.144177,Montérégie
+23356,Shawville,SAQ,"255, route 148",Shawville,J0X2Y0,819 647-2623,45.59959,-76.4934,Outaouais
+23357,Chelsea,SAQ,"1707, route 105",Chelsea,J9B0B9,819 459-2872,45.598499,-75.898501,Outaouais
+23358,Lavaltrie,SAQ,"89-B, chemin de Lavaltrie",Lavaltrie,J5T2H5,450 586-1561,45.893909,-73.296723,Lanaudière
+23359,Joliette - Centre-ville,SAQ,"598, Rue Notre-Dame",Joliette,J6E9E1,450 759-8848,46.0229274,-73.4411423,Lanaudière
+23361,Rosemère - Galeries Mille-Îles,SAQ Sélection,"309, boulevard Labelle",Rosemère,J7A2H7,450 437-1855,45.6286,-73.8111,Laurentides
+23362,Saint-Lazare,SAQ,"1811-A, chemin Ste-Angélique",Saint-Lazare,J7T2X9,450 510-1302,45.399643,-74.13645,Montérégie
+23363,Marché 440,SAQ,"3535, autoroute Jean-Noà«l-Lavoie",Laval,H7P5G9,450 681-3744,45.567219,-73.767374,Laval
+23364,Carrefour Laval,SAQ,"3035, boulevard le Carrefour",Laval,H7T1C8,450 682-1373,45.5678,-73.7522,Laval
+23365,Mont Saint-Hilaire,SAQ,"460, boulevard Sir-Wilfrid-Laurier",Mont-Saint-Hilaire,J3H3N9,450 464-3236,45.5659989,-73.1830105,Montérégie
+23366,Sainte-Julie,SAQ Sélection,"133, boulevard Armand-Frappier Suite 100",Sainte-Julie,J3E0G2,450 649-6564,45.583704,-73.324593,Montérégie
+23367,Mercier,SAQ,"659, boulevard St-Jean-Baptiste",Mercier,J6R2A3,450 692-2241,45.320587,-73.739218,Montérégie
+23368,Place Longueuil,SAQ,"825, rue St-Laurent Ouest",Longueuil,J4K2V1,450 646-9711,45.528207,-73.513432,Montérégie
+23369,Saint-Lambert - Centre-ville,SAQ,"420, avenue Victoria",Saint-Lambert,J4P2H9,450 923-4911,45.5027,-73.5151,Montérégie
+23371,Boucherville - D'Avaugour/de Montarville,SAQ Sélection,"525, rue d'Avaugour",Boucherville,J4B0L2,450 655-3521,45.58768,-73.430319,Montérégie
+23379,Saint-Michel-des-Saints,SAQ,"180, rue Brassard",Saint-Michel-des-Saints,J0K3B0,450 833-5221,46.671382,-73.915147,Lanaudière
+23380,Saint-Sauveur - De la Gare,SAQ Sélection,"226, chemin du Lac-Millette",Saint-Sauveur,J0R1R3,450 227-4338,45.8910903,-74.1526993,Laurentides
+23381,Mirabel - St-Augustin,SAQ,"8520, rue St-Jacques",Mirabel,J7N2E7,450 475-7474,45.633774,-73.983798,Laurentides
+23385,Exclusivement pour les restaurateurs,SAQ Restauration,"150, rue St-Zotique Ouest",Montréal,H2S1P4,514 274-6720,45.5309,-73.614,Montréal
+23390,Exclusivement pour les restaurateurs,SAQ Restauration,"1900, rue St-Patrick",Montréal,H3K1A9,514 937-0330,45.484316,-73.564661,Montréal
+23451,Dépôt Gatineau,SAQ Dépôt,"25, chemin de la Savane",Gatineau,J8T8A4,819 777-1955,45.4740102,-75.7067721,Outaouais
+33501,St-Romuald,SAQ,"1056, Guillaume-Couture",Lévis,G6W0R8,418 839-5353,46.732986,-71.267616,Chaudière-Appalaches
+33503,Saint-Félicien,SAQ,"1195, boulevard Saint-Félicien",Saint-Félicien,G8K3J1,418 679-1311,48.6548,-72.4592,Saguenay - Lac-Saint-Jean
+33504,Trois-Pistoles,SAQ,"634, rue Richard",Trois-Pistoles,G0L4K0,418 851-3505,48.121791,-69.164248,Bas-Saint-Laurent
+33505,Mégacentre Rimouski,SAQ Sélection,"391, montée Industrielle-et-Commerciale",Rimouski,G5M1Y1,418 723-2611,48.455929,-68.495367,Bas-Saint-Laurent
+33506,Chicoutimi-Nord,SAQ,"2183, rue Roussel",Chicoutimi,G7G1W4,418 543-0912,48.437247,-71.065554,Saguenay - Lac-Saint-Jean
+33507,Saint-Augustin-de-Desmaures,SAQ,"286, route 138",St-Augustin-de-Desmaures,G3A2C5,418 878-5182,46.744025,-71.454582,Capitale-Nationale
+33508,Québec - Rue Cartier,SAQ Sélection,"1059, avenue Cartier",Québec,G1R2S6,418 643-4334,46.80368,-71.22552,Capitale-Nationale
+33509,Donnacona,SAQ,"483, route 138",Donnacona,G3M0A9,418 285-2611,46.680569,-71.717417,Capitale-Nationale
+33510,Plessisville,SAQ,"1971, rue Bilodeau",Plessisville,G6L3J1,819 362-2677,46.221,-71.7735,Centre-du-Québec
+33511,Chicoutimi - Boul. Talbot,SAQ Sélection,"1075, boulevard Talbot",Saguenay,G7H4B5,418 543-4011,48.410698,-71.052556,Saguenay - Lac-Saint-Jean
+33512,Jonquière,SAQ Sélection,"2311, rue St-Hubert",Saguenay,G7X5N6,418 542-6301,48.41475,-71.245928,Saguenay - Lac-Saint-Jean
+33513,Alma - Centre-ville,SAQ,"455, rue Sacré-Coeur Ouest",Alma,G8B1M4,418 662-6076,48.5476,-71.6462,Saguenay - Lac-Saint-Jean
+33514,Nicolet,SAQ,"2000, boulevard Louis-Fréchette",Nicolet,J3T1M9,819 293-4611,46.2377,-72.6013,Centre-du-Québec
+33515,Limoilou,SAQ,"1185, 3e Avenue",Québec,G1L2X5,418 529-1391,46.827571,-71.231135,Capitale-Nationale
+33517,Trois-Rivières - Boul. Ste Madeleine,SAQ,"165, boulevard Ste-Madeleine",Trois-Rivières,G8T3L7,819 374-6722,46.36551,-72.50999,Mauricie
+33518,Saint-Georges,SAQ Sélection,"8984, boulevard Lacroix",St-Georges,G5Y5P4,418 228-2611,46.13065,-70.6938,Chaudière-Appalaches
+33519,Mont-Joli,SAQ,"1760, boulevard Gaboury",Mont-Joli,G5H3S7,418 775-3611,48.58072,-68.185872,Bas-Saint-Laurent
+33520,Val Bélair,SAQ,"1065, boulevard Pie XI Nord",Québec,G3K2S5,418 847-8751,46.8552,-71.4169,Capitale-Nationale
+33521,Victoriaville - Centre-ville,SAQ,"244, rue Notre-Dame Est",Victoriaville,G6P4A1,819 752-4350,46.057646,-71.9527,Centre-du-Québec
+33523,Lac-Mégantic,SAQ,"5950, rue Papineau",Lac-Mégantic,G6B2H6,819 583-0310,45.573341,-70.87671,Estrie
+33524,Québec - Boul. Charest Ouest,SAQ Express,"707, boulevard Charest Ouest",Québec,G1N4P6,418 681-4325,46.8051,-71.242409,Capitale-Nationale
+33526,Québec - Rue St-Jean,SAQ,"853, rue St-Jean",Québec,G1R1R2,418 643-4337,46.8115,-71.2161,Capitale-Nationale
+33527,Chibougamau,SAQ,"402, 3e Rue",Chibougamau,G8P2X6,418 748-2104,49.913643,-74.370689,Nord-du-Québec
+33528,Ste-Catherine-de-la-Jacques-Cartier,SAQ,"4530, route Fossambault",Ste-Catherine-J.-Cartier,G3N2T6,418 875-3118,46.8369,-71.6021,Capitale-Nationale
+33530,Grand-Mère,SAQ,"920, 7e Avenue",Shawinigan,G9T2B8,819 538-4466,46.612621,-72.696831,Mauricie
+33531,Rimouski - Nazareth,SAQ,"457, boulevard Saint-Germain Ouest",Rimouski,G5L3P2,418 722-3878,48.439225,-68.553483,Bas-Saint-Laurent
+33532,Clermont,SAQ,"110, boulevard Notre-Dame",Clermont,G4A1G3,418 439-1955,47.6914,-70.2214,Capitale-Nationale
+33533,Gaspé,SAQ,"184, montée de Wakeham (route 198)",Gaspé,G4X1V3,418 368-2611,48.827217,-64.486737,Gaspésie-Îles-de-la-Madeleine
+33534,Shawinigan,SAQ,"1440, rue Trudel",Shawinigan,G9N0A2,819 536-5687,46.555029,-72.7478,Mauricie
+33535,Québec - Boul. de L'Ormière,SAQ,"9085, boulevard de l'Ormière",Québec,G2B3K2,418 842-9105,46.832644,-71.351141,Capitale-Nationale
+33536,Cap-Rouge,SAQ Sélection,"1103, boulevard de la Chaudière",Québec,G1Y3T4,418 653-1788,46.759315,-71.350169,Capitale-Nationale
+33537,Québec - Boul. Jean-Lesage,SAQ Sélection,"400, boulevard Jean-Lesage",Québec,G1K8W1,418 643-4339,46.8164,-71.2159,Capitale-Nationale
+33538,Québec - Rue Maguire,SAQ,"1305, avenue Maguire",Québec,G1T1Z2,418 681-6542,46.7812,-71.2518,Capitale-Nationale
+33539,Saint-Jean-Chrysostome,SAQ,"760, avenue Taniata",Lévis,G6Z2C7,418 839-1991,46.733095,-71.209589,Chaudière-Appalaches
+33540,La Baie,SAQ,"2100, rue Bagot",La Baie,G7B3Z3,418 544-9379,48.335732,-70.894243,Saguenay - Lac-Saint-Jean
+33541,Amqui,SAQ,"30, boulevard St-Benoà®t Est",Amqui,G5J2B7,418 629-3511,48.464573,-67.423798,Bas-Saint-Laurent
+33542,Saint-Raymond,SAQ,"333, rue de la Côte Joyeuse, Local 800",Saint-Raymond,G3L4A8,418 337-2950,46.882128,-71.834099,Capitale-Nationale
+33543,Arvida,SAQ,"2625, boulevard du Royaume",Saguenay,G7S0B7,418 548-1119,48.405012,-71.1678,Saguenay - Lac-Saint-Jean
+33544,Chandler,SAQ,"500, av. du Docteur-G-Daigneault bur 120",Chandler,G0C1K0,418 689-2611,48.3515,-64.6723,Gaspésie-Îles-de-la-Madeleine
+33545,Estimauville,SAQ,"2485, boulevard Sainte-Anne",Québec,G1J1Y4,418 663-4706,46.8452007,-71.21660259,Capitale-Nationale
+33546,Drummondville - Boul. St-Joseph,SAQ Sélection,"695, boulevard Saint-Joseph",Drummondville,J2C2B6,819 478-8184,45.892027,-72.512274,Centre-du-Québec
+33547,La Tuque,SAQ,"1200, boulevard Ducharme",La Tuque,G9X3Z9,819 523-2893,47.4201,-72.7852,Mauricie
+33548,Rivière-du-Loup,SAQ Sélection,"252-A, boulevard Hôtel-de-Ville",Rivière-du-Loup,G5R1M4,418 862-0299,47.826888,-69.550128,Bas-Saint-Laurent
+33549,La Malbaie,SAQ,"375, boulevard de Comporté",La Malbaie,G5A1H9,418 665-3676,47.6435,-70.1501,Capitale-Nationale
+33550,Baie-Comeau - Boul. Lasalle,SAQ,"300, boulevard Lasalle",Baie-Comeau,G4Z2K2,418 296-2611,49.21431,-68.18981,Côte-Nord
+33551,Sainte-Anne-des-Monts,SAQ,"51, boulevard Ste-Anne Ouest",Ste-Anne-des-Monts,G4V1R2,418 763-2611,49.126818,-66.486418,Gaspésie-Îles-de-la-Madeleine
+33552,Paspébiac,SAQ,"113, boulevard Gérard-D. Lévesque Ouest",Paspébiac,G0C2K0,418 752-3155,48.027627,-65.260844,Gaspésie-Îles-de-la-Madeleine
+33553,Galeries de la Capitale,SAQ Sélection,"5751, boulevard des Galeries",Québec,G2K1X1,418 623-6063,46.833851,-71.297898,Capitale-Nationale
+33554,Carleton,SAQ,"569, boulevard Perron",Carleton-sur-Mer,G0C1J0,418 364-3411,48.1039104,-66.1264585,Gaspésie-Îles-de-la-Madeleine
+33555,Shawinigan-Sud,SAQ,"4155, boulevard de Shawinigan-Sud",Shawinigan,G9P4G3,819 537-1356,46.5040995,-72.729079,Mauricie
+33556,Cabano,SAQ,"633, rue Commerciale Nord",Témiscouata-sur-le-Lac,G0L1E0,418 854-2000,47.6816,-68.8836,Bas-Saint-Laurent
+33557,Le Grand Marché,SAQ,"250, boulevard Wilfrid-Hamel, Édifice M",Québec,G1L5A7,581 300-1099,46.826928,-71.245156,Capitale-Nationale
+33558,La Pocatière,SAQ,"625, 1re rue Poiré",La Pocatière,G0R1Z0,418 856-1392,47.365136,-70.037552,Bas-Saint-Laurent
+33559,Saint-Émile,SAQ,"1200, rue de la Faune",Saint-Émile,G3E1T2,418 840-9078,46.876258,-71.325493,Capitale-Nationale
+33560,Trois-Rivières - Boul. St-Maurice,SAQ,"501, boulevard St-Maurice",Trois-Rivières,G9A3P1,819 374-5134,46.35367,-72.543473,Mauricie
+33561,Trois-Rivières - Des Forges/6e rue,SAQ Sélection,"4675, boulevard des Forges",Trois-Rivières,G8Y1V9,819 374-5944,46.359721,-72.590445,Mauricie
+33562,Sept-Iles,SAQ Sélection,"649, boulevard Laure",Sept-Îles,G4R1X8,418 962-6255,50.217103,-66.380765,Côte-Nord
+33563,Roberval,SAQ,"1221, boulevard Marcotte",Roberval,G8H3B8,418 275-2183,48.524367,-72.233926,Saguenay - Lac-Saint-Jean
+33564,Beauport - Rue Blanche-Lamontagne,SAQ Sélection,"2060, rue Blanche-Lamontagne",Québec,G1C0G9,418 666-4949,46.864422,-71.214195,Capitale-Nationale
+33565,Baie Saint-Paul,SAQ,"1020, boulevard Monseigneur-de-Laval",Baie-Saint-Paul,G3Z2W6,418 435-2731,47.445941,-70.514677,Capitale-Nationale
+33566,Iles-de-la-Madeleine,SAQ,"525, chemin Principal",Cap-aux-Meules,G4T1E4,418 986-2411,47.375149,-61.871828,Gaspésie-Îles-de-la-Madeleine
+33567,Drummondville - Rue des Forges,SAQ,"500, rue des Forges",Drummondville,J2B0E4,819 478-4214,45.87907,-72.487074,Centre-du-Québec
+33568,Port-Cartier,SAQ,"8, boulevard des Îles",Port-Cartier,G5B2J4,418 766-5511,50.020982,-66.882545,Côte-Nord
+33569,Forestville,SAQ,"25, route 138 Est",Forestville,G0T1E0,418 587-2611,48.74492,-69.084998,Côte-Nord
+33570,Sainte-Marie,SAQ,"1024, boulevard Vachon Nord",Sainte-Marie,G6E1M5,418 387-6186,46.450735,-71.031908,Chaudière-Appalaches
+33571,Thetford Mines,SAQ,"701, boulevard Frontenac Est",Thetford Mines,G6G6Y7,418 338-6101,46.110419,-71.302569,Chaudière-Appalaches
+33573,Neufchâtel,SAQ,"2425, boulevard Bastien",Québec,G2B1B3,418 842-7693,46.857971,-71.338432,Capitale-Nationale
+33574,Lauzon,SAQ,"7777, boulevard Guillaume-Couture",Lévis,G6V6Z1,418 837-0602,46.816068,-71.146058,Chaudière-Appalaches
+33575,Québec - Boul. Laurier,SAQ Sélection,"2828, boulevard Laurier",Québec,G1V0B9,418 692-1182,46.76808,-71.286875,Capitale-Nationale
+33576,Beauceville,SAQ,"630C, boulevard Renault",Beauceville,G5X1M6,418 774-9147,46.20747,-70.773234,Chaudière-Appalaches
+33577,Dolbeau,SAQ,"1720, boulevard Wallberg",Dolbeau-Mistassini,G8L1H6,418 276-0288,48.88033,-72.2306,Saguenay - Lac-Saint-Jean
+33578,Saint-Nicéphore,SAQ,"4565, boulevard St-Joseph",Drummondville,J2A1B4,819 479-8859,45.838575,-72.43262,Centre-du-Québec
+33580,Plaza Laval,SAQ,"2750, chemin Ste-Foy",Québec,G1V1V6,418 656-0175,46.7808,-71.2993,Capitale-Nationale
+33581,Saint-Étienne-de-Lauzon,SAQ,"3011, route Lagueux",Lévis,G6J0G6,418 836-3760,46.652582,-71.314717,Chaudière-Appalaches
+33582,L'Ancienne-Lorette - Aut. Duplessis,SAQ Express,"1211, autoroute Duplessis",L'Ancienne-Lorette,G2G2B4,418 877-1977,46.786547,-71.351221,Capitale-Nationale
+33583,Place Naviles,SAQ Sélection,"3400, chemin des Quatre-Bourgeois",Québec,G1W2L3,418 656-0244,46.763546,-71.317144,Capitale-Nationale
+33584,Les Saules,SAQ Sélection,"5015, boulevard de l'Ormière",Québec,G1P1K6,418 877-7059,46.818789,-71.331822,Capitale-Nationale
+33585,Carrefour Charlesbourg,SAQ Sélection,"8500, boulevard Henri-Bourassa",Québec,G1G5X1,418 628-5567,46.864551,-71.270432,Capitale-Nationale
+33586,Lac Etchemin,SAQ,"1556, route 277",Lac-Etchemin,G0R1S0,418 625-6751,46.403172,-70.524521,Chaudière-Appalaches
+33587,Disraeli,SAQ,"923, avenue Champlain",Disraeli,G0N1E0,418 449-3312,45.907011,-71.360674,Chaudière-Appalaches
+33588,Dépôt Saguenay,SAQ Dépôt,"1898, boulevard Talbot",Saguenay,G7H7Y1,418 549-4522,48.3948,-71.0704,Saguenay - Lac-Saint-Jean
+33589,Saint-Jean-Port-Joli,SAQ,"26, avenue de Gaspé Ouest",Saint-Jean-Port-Joli,G0R3G0,418 598-6415,47.213348,-70.269775,Chaudière-Appalaches
+33590,Stoneham-et-Tewkesbury,SAQ,"4, route Tewkesbury",Stoneham-et-Tewkesbury,G3C2K6,418 848-4764,46.98331,-71.367921,Capitale-Nationale
+33591,Rivière-Bleue,SAQ,"21, rue St-Joseph Nord",Rivière-Bleue,G0L2B0,418 893-2234,47.434405,-69.044604,Bas-Saint-Laurent
+33592,Saint-Pascal,SAQ,"505, avenue Patry",Saint-Pascal,G0L3Y0,418 492-6511,47.530065,-69.810443,Bas-Saint-Laurent
+33593,Percé,SAQ,"155, Route 132 Ouest",Percé,G0C2L0,418 782-2000,48.5193,-64.215,Gaspésie-Îles-de-la-Madeleine
+33594,Halles Sainte-Foy,SAQ Express,"2500, chemin des Quatre-Bourgeois",Québec,G1V4P9,418 658-9944,46.782389,-71.28699,Capitale-Nationale
+33595,Chemin Saint-Louis,SAQ,"2485, chemin St-Louis, bureau 200",Québec,G1T1R9,418 659-2968,46.768565,-71.267254,Capitale-Nationale
+33596,Vanier,SAQ,"405, rue Soumande",Québec,G1M2X6,418 683-2306,46.821287,-71.255239,Capitale-Nationale
+33599,Saint-Tite,SAQ,"512, rue du Moulin",Saint-Tite,G0X3H0,418 365-6137,46.729651,-72.563981,Mauricie
+33600,Campanile,SAQ,"3700, rue du Campanile",Québec,G1X4G6,418 658-9228,46.7622,-71.3331,Capitale-Nationale
+33601,Charlesbourg - Boul. du Lac,SAQ,"795, boulevard du Lac",Québec,G2M0E4,418 849-2931,46.9175,-71.3206,Capitale-Nationale
+33604,Sainte-Anne-de-Beaupré,SAQ,"10410, boulevard Ste-Anne",Sainte-Anne-de-Beaupré,G0A3C0,418 827-2743,47.0209,-70.9402,Capitale-Nationale
+33605,Beauport - Ave. Nordique,SAQ,"975, avenue Nordique",Beauport,G1C0C7,418 667-6012,46.886665,-71.197449,Capitale-Nationale
+33606,Québec - Ave. St-Sacrement,SAQ,"1305, chemin Ste-Foy",Québec,G1S4N5,418 681-9130,46.795195,-71.253312,Capitale-Nationale
+33608,Fermont,SAQ,"299, rue le Carrefour",Fermont,G0G1J0,418 287-3611,52.796446,-67.081193,Côte-Nord
+33609,Saint-Nicolas,SAQ Sélection,"1345, route des Rivières",Lévis,G7A2V6,418 831-3100,46.719,-71.2995,Chaudière-Appalaches
+33610,Havre Saint-Pierre,SAQ,"1327, rue de la Digue",Havre-Saint-Pierre,G0G1P0,418 538-2611,50.245822,-63.592877,Côte-Nord
+33611,Victoriaville - boul. Jutras,SAQ Sélection,"1081, boulevard Jutras Est",Victoriaville,G6S1J1,819 357-7116,46.062512,-71.927575,Centre-du-Québec
+33612,Montmagny,SAQ,"84, boulevard Taché Ouest",Montmagny,G5V3A4,418 248-6940,46.979736,-70.568786,Chaudière-Appalaches
+33613,New Richmond,SAQ,"124, boulevard Perron Ouest",New Richmond,G0C2B0,418 392-4920,48.161577,-65.858785,Gaspésie-Îles-de-la-Madeleine
+33614,Baie-Comeau - Boul. Laflèche,SAQ,"1490, rue de Bretagne",Baie-Comeau,G5C3S9,418 589-4383,49.203825,-68.254314,Côte-Nord
+33615,Lévis - Route du Président Kennedy,SAQ Sélection,"50, route du Président-Kennedy",Lévis,G6V6W8,418 835-0946,46.794583,-71.175675,Chaudière-Appalaches
+33616,Galeries Charlesbourg,SAQ,"4250, 1re Avenue",Québec,G1H2S5,418 628-4438,46.84252,-71.24938,Capitale-Nationale
+33617,L'Ancienne-Lorette - Rue Notre-Dame,SAQ,"1880, rue Notre-Dame",L'Ancienne-Lorette,G2E3C8,418 871-0528,46.809683,-71.368966,Capitale-Nationale
+33618,Trois-Rivières - Boul. Thibeau,SAQ,"635, boulevard Thibeau",Trois-Rivières,G8T6Z6,819 374-5651,46.3855,-72.5474,Mauricie
+33619,Pointe-à -la-Croix,SAQ,"22, rue Sarto",Pointe-à -la-Croix,G0C1L0,418 788-2444,48.017018,-66.683965,Gaspésie-Îles-de-la-Madeleine
+33620,Saint-Apollinaire,SAQ,"141, rue Principale",St-Apollinaire,G0S2E0,418 881-3488,46.61323,-71.513061,Chaudière-Appalaches
+33622,Gentilly,SAQ,"3687, boulevard Bécancour",Bécancour,G9H3W7,819 298-2728,46.397802,-72.284116,Centre-du-Québec
+33623,Dépôt Trois-Rivières,SAQ Dépôt,"3305, boulevard des Récollets",Trois-Rivières,G9A6M1,819 693-5572,46.329486,-72.5678,Mauricie
+33624,Matane,SAQ,"750, avenue du Phare Ouest",Matane,G4W3W8,418 562-3620,48.85162,-67.53663,Bas-Saint-Laurent
+33625,Laurier-Station,SAQ,"120, boulevard Laurier",Laurier-Station,G0S1N0,418 728-5980,46.536954,-71.637366,Chaudière-Appalaches
+33629,Pont-Rouge,SAQ,"2, rue du Collège",Pont-Rouge,G3H1N3,418 873-1518,46.755273,-71.6947,Capitale-Nationale
+33630,Trois-Rivières - Des Forges/N-D Centre,SAQ,"180, rue des Forges",Trois-Rivières,G9A2G8,819 374-6848,46.3419,-72.540944,Mauricie
+33632,Centre Alma,SAQ Sélection,"555, avenue du Pont Nord",Alma,G8B6T5,418 668-4657,48.559063,-71.638954,Saguenay - Lac-Saint-Jean
+33633,Sainte-Anne-de-la-Pérade,SAQ,"175, rue Principale",Sainte-Anne-de-la-Pérade,G0X2J0,418 325-2611,46.569037,-72.21051,Mauricie
+33635,Trois-Rivières - Boul. Jean XXIII,SAQ,"6285, rue Corbeil",Trois-Rivières,G8Z4P9,819 373-9018,46.32879,-72.59592,Mauricie
+33637,Sainte-Claire,SAQ,"115, boulevard Bégin",Ste-Claire,G0R2V0,418 883-2733,46.601452,-70.864384,Chaudière-Appalaches
+33638,Saint-Joseph-de-Beauce,SAQ,"1021, avenue du Palais",St-Joseph-de-Beauce,G0S2V0,418 397-5026,46.302229,-70.874348,Chaudière-Appalaches
+33639,Beauport - Ave. Royale,SAQ,"775, avenue Royale",Québec,G1E1Z1,418 661-8236,46.8623509,-71.188058,Capitale-Nationale
+33690,Chicoutimi - Centre-ville,SAQ,"475, rue Racine Est",Saguenay,G7H1T5,418 549-2202,48.4286,-71.0546,Saguenay - Lac-Saint-Jean
+33691,Exclusivement pour les restaurateurs,SAQ Restauration,"2900, rue Einstein",Québec,G1X4B3,418 977-0260,46.788893,-71.319822,Capitale-Nationale
+33692,Beauport - Ave. Larue,SAQ,"2190, avenue Larue",Québec,G1C4X1,418 666-6591,46.88812,-71.168809,Capitale-Nationale
+33693,Québec - Boulevard des Gradins,SAQ,"5795, boulevard des Gradins",Québec,G2J1V1,418 624-2349,46.840772,-71.275537,Capitale-Nationale
+33694,Lac Saint-Charles,SAQ,"891, rue Jacques-Bédard",Québec,G2N1E1,418 849-2506,46.9091,-71.349,Capitale-Nationale
+33695,Saint-Lambert-de-Lauzon,SAQ,"1256, rue du Pont",Saint-Lambert-de-Lauzon,G0S2W0,418 889-2751,46.5925396,-71.2041209,Chaudière-Appalaches
+33851,Rivière-au-Renard,SAQ,"50, rue Blouin",Gaspé,G4X5R9,418 269-5051,48.992248,-64.392327,Gaspésie-Îles-de-la-Madeleine
+33852,Dégelis,SAQ,"607, avenue Principale",Dégelis,G5T1L9,418 853-2205,47.543627,-68.626113,Bas-Saint-Laurent
+33853,Sainte-Perpétue,SAQ,"429, rue Principale",Ste-Perpétue de l'Islet,G0R3Z0,418 359-2682,47.052198,-69.9192344,Chaudière-Appalaches
+33854,Métabetchouan,SAQ,"13A, avenue Villeneuve",Métabetchouan,G8G1L2,418 349-3456,48.4304,-71.8659,Saguenay - Lac-Saint-Jean
+33856,Guadeloupe,SAQ,"394, 14e Avenue",La Guadeloupe,G0M1G0,418 459-3536,45.959722,-70.936403,Chaudière-Appalaches
+33858,Saint-Marc-des-Carrières,SAQ,"770, boulevard Bona-Dussault",Saint-Marc-des-Carrières,G0A4B0,418 268-8695,46.6783536,-72.0456147,Capitale-Nationale
+33859,Sainte-Croix,SAQ,"6375, rue Principale",Sainte-Croix,G0S2H0,418 926-3108,46.62306,-71.74205,Chaudière-Appalaches
+33860,Bonaventure,SAQ,"101, avenue Port-Royal",Bonaventure,G0C1E0,418 534-3626,48.04531,-65.49424,Gaspésie-Îles-de-la-Madeleine
+33862,Grande-Vallée,SAQ,"5, rue St-Franà§ois-Xavier Est",Grande-Vallée,G0E1K0,418 393-2211,49.224912,-65.127593,Gaspésie-Îles-de-la-Madeleine
+33868,Dépôt Québec,SAQ Dépôt,"2900, rue Einstein",Québec,G1X4B3,418 646-3604,46.787804,-71.320289,Capitale-Nationale
